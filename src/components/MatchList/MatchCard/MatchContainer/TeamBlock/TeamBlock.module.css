@@ -1,0 +1,8 @@
+.teamBlock {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 171;
+  height: 48;
+  gap: 14px;
+}

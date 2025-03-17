@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Tactic Sans Ultra';
+  src: url('../assets/fonts/TacticSans-UltIt.eot');
+  src: local('Tactic Sans Ultra Italic'), local('TacticSans-UltIt'),
+      url('../assets/fonts/TacticSans-UltIt.eot?#iefix') format('embedded-opentype'),
+      url('../assets/fonts/TacticSans-UltIt.woff2') format('woff2'),
+      url('../assets/fonts/TacticSans-UltIt.woff') format('woff'),
+      url('../assets/fonts/TacticSans-UltIt.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}

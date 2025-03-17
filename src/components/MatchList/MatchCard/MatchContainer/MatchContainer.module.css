@@ -1,0 +1,6 @@
+.matchContainer {
+  width: 1764;
+  height: 55;
+  display: flex;
+  justify-content: space-between;
+}

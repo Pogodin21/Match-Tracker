@@ -1,0 +1,11 @@
+.matchCard {
+  width: 1836;
+  height: 87;
+  top: 37px;
+  left: 20px;
+  border-radius: 4px;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #0B0E12;
+  margin-bottom: 10px;
+}

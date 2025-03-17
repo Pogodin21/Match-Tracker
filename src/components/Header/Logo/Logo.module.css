@@ -1,0 +1,11 @@
+@import '../../../styles/fonts.css';
+
+.logo {
+  font-family: 'Tactic Sans Ultra', sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: 0;
+  color: #ffffff
+}
