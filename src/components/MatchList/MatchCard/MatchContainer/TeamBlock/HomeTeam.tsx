@@ -1,7 +1,12 @@
 import teamLogo from '../../../../../../public/illustrations_role.png';
-import styles from './TeamBlock.module.css'
+import { ITeam } from '../../../../../types/match';
+import styles from './TeamBlock.module.css';
 
-export const HomeTeam = ( {team} ) => {
+interface IHomeTeam {
+  team: ITeam
+}
+
+export const HomeTeam = ( {team}: IHomeTeam ) => {
   return (
     <div className={styles.teamBlock}>
       <span>{team.name}</span>
