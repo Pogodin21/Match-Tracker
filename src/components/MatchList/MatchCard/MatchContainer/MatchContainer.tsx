@@ -1,7 +1,7 @@
 import styles from './MatchContainer.module.css'
 import {ScoreBlock} from './ScoreBlock/ScoreBlock';
-import {HomeTeam} from './TeamBlock/HomeTeam';
 import {AwayTeam} from './TeamBlock/AwayTeam';
+import { HomeTeam } from './TeamBlock/HomeTeam';
 import { IMatch } from '../../../../types/match';
 
 interface IMatchContainer {
